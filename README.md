@@ -1,6 +1,6 @@
 ### Hi there 👋. My name is Robert Andrzejczyk. I am a mobile platforms developer, currently focused on iOS. 
 Here is a list with my opensource projects:
-- [spread-i18n](https://github.com/orgs/spread-i18n/repositories) - set of tools for importing or exporting translations from excel files to mobile projects (Android, iOS), (Kotlin, Java)
+- [spread-i18n](https://github.com/orgs/spread-i18n/repositories) - set of tools for importing and exporting translations from excel files to mobile projects (Android, iOS), (Kotlin, Java)
 - [elasticsearch-log-browser](https://github.com/rojarand/elasticsearch-log-browser) - an app for browsing logs stored in an Elasticsearch database (Flutter/Dart), 
 - [libwebcam](https://github.com/rojarand/libwebcam) - a library for providing access to USB webcam image stream (Unix/C++)
 - [bashutils](https://github.com/rojarand/bashutils) - a collection of bash scripts designed to speed up text transformation (Bash).
